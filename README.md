@@ -11,6 +11,8 @@ This program was created using Solidity, and remix.ethereum
 
 ## Installation Guide
 
+git clone https://github.com/chance2424/Smart_Contracts.git
+
 ---
 
 ## Contributors
