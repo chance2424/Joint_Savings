@@ -1,6 +1,6 @@
 # Smart_Contracts
 
-Create a smart contract that will create a joint savings account
+Designed a smart contract that will create a joint savings account
 ---
 
 ## Technologies
